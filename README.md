@@ -1,4 +1,4 @@
-# BOSS直聘爬虫
+# 爬虫项目
 
 * __auther__ = 'lcljcbx'
 
